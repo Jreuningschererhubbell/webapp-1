@@ -1,7 +1,11 @@
 [package]
 name = "webapp-one"
 version = "0.1.0"
-edition = "2021"
+edition = "2018"
+homepage = "https://github.com/Jreuningschererhubbell/webapp-one"
+license = "MIT"
+description = "Hubbell Webapp"
+repository = "git://github.com/Jreuningschererhubbell/webapp-one.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
